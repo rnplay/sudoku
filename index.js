@@ -360,8 +360,9 @@ function makeArray(length, value) {
 
 module.exports = {
 	makepuzzle  : function () { return makepuzzle(solvepuzzle(makeArray(81, null))); },
-	solvepuzzle : solvepuzzle,
-	ratepuzzle  : ratepuzzle,
-	posfor      : posfor
+	boardmatches	: boardmatches,
+	solvepuzzle 	: solvepuzzle,
+	ratepuzzle  	: ratepuzzle,
+	posfor      	: posfor
 };
 
