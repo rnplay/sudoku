@@ -1,6 +1,6 @@
 {
-    "name": "sudoku",
-    "description": "Sudoku generator and solver for node.js",
+    "name": "sudoku-rnplay",
+    "description": "Sudoku generator and solver for node.js. Forked for use with https://github.com/christopherdro/react-native-sudoku",
     "keywords": ["sudoku", "generate", "solve", "puzzle", "game", "board"],
     "version": "0.0.2",
     "main": "index",
